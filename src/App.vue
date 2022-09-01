@@ -34,13 +34,13 @@
         </div>
         <div class="text-center mt-5 bg-[#5865F2] hover:bg-[#4853d6] rounded-sm transition-colors">
           <a class="w-full flex justify-center items-center" target="_blank" href="https://discord.com/api/oauth2/authorize?client_id=1002203084388315146&permissions=274878254080&scope=applications.commands%20bot">
-            <p class="p-2 font-semibold">Adicionar ao Servidor</p>
+            <p class="p-2 font-semibold">Add to Server</p>
             <OpenInNew></OpenInNew>
           </a>
         </div>
         <div class="text-center mt-4 bg-[#5865F2] hover:bg-[#4853d6] rounded-sm transition-colors">
           <a class="w-full flex justify-center items-center" target="_blank" href="https://discord.gg/mKQzH89vP2">
-            <p class="p-2 font-semibold">Servidor de Suporte</p>
+            <p class="p-2 font-semibold">Support</p>
             <OpenInNew></OpenInNew>
           </a>
         </div>
